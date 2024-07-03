@@ -1,0 +1,6 @@
+You have socket This socket consists of thousands of logical ports[logical sockets]
+we need to use one socket of them uaAmer
+every application uses one or more ports
+
+--> I need to take single port for my application
+How to do that you need to make ==> Object of class Called server Socket
