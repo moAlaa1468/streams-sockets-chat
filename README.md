@@ -10,4 +10,11 @@
 #### All basics of any chat Application You will find them here 
 #### In order to run The chatApp you will need to take the Client file and create New Project 
 #### Take of the ip address and port Number during Running the Client Application
+### In ImagesFilteringApp
+#### You will find functions used to filter file of Type Images according to extension
+#### Function used to copy these images to another location 
+#### Functions used to remove all Images 
+#### Functions used to list all Images in the parent Directory and subDirectory 
+#### Recursion is used here You will now the power of recursion Here uaAlaa
+#### If you need to make quick revision for Files and How to deal with streams and Files You must take a look to this Example
 #### ===================== Mohamed Alaa Amer =========================
